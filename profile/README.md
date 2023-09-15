@@ -32,7 +32,7 @@
 * Pivotal Tracker
   * EventNXT: https://www.pivotaltracker.com/n/projects/2630477
   * CastNXT: https://www.pivotaltracker.com/n/projects/2630374
-  * PlanNXT: https://www.pivotaltracker.com/n/projects/2632066
+  * PlaNXT: https://www.pivotaltracker.com/n/projects/2632066
 * Deployed App (https://events360.herokuapp.com/):
   * EventNXT: https://eventnxt.herokuapp.com/
   * CastNXT: https://castnxtspring.herokuapp.com
