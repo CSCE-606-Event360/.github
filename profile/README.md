@@ -28,6 +28,7 @@
   * EventNXT: [https://github.com/FashioNXT/EventNXT-606-Spring2023](https://github.com/CSCE-606-Event360/EventNXT)
   * CastNXT: [https://github.com/FashioNXT/CastNXT_Spring2023](https://github.com/CSCE-606-Event360/CastNXT)
   * PlaNXT: [https://github.com/FashioNXT/planxt ](https://github.com/CSCE-606-Event360/PlaNXT)
+  * Event NXT NEW APP : https://github.com/CSCE-606-Event360/EventNXT_new_app
 
 * Pivotal Tracker
   * EventNXT: https://www.pivotaltracker.com/n/projects/2630477
