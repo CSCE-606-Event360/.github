@@ -5,6 +5,7 @@
 * Contact name:	Tito Chowdhury
 * Contact email:	tito@fashionxt.net
 * Client's description of the project	https://docs.google.com/presentation/d/1PYwjjxPOeKPUM4fkMAFsRnmRjF0TCrp7XCdOPpy3fR8/edit?usp=sharing
+* NOTE: This project consists of three different projects being actively developed (EventNXT, CastNXT, PlaNXT), please see the below links to reach the correct repo
 
 
 ## Advice from Prof. Ritchey: 
@@ -25,10 +26,14 @@
 
 ## Useful Links
 * GitHub
-  * EventNXT: [https://github.com/FashioNXT/EventNXT-606-Spring2023](https://github.com/CSCE-606-Event360/EventNXT)
-  * EventNXT New App: https://github.com/CSCE-606-Event360/EventNXT/tree/main/EventNXT_new_app
-  * CastNXT: [https://github.com/FashioNXT/CastNXT_Spring2023](https://github.com/CSCE-606-Event360/CastNXT)
-  * PlaNXT: [https://github.com/FashioNXT/planxt ](https://github.com/CSCE-606-Event360/PlaNXT)
+  * Fall 2023 Repos:
+    * EventNXT: [https://github.com/CSCE-606-Event360/EventNXT/tree/main/EventNXT_new_app](https://github.com/CSCE-606-Event360/EventNXT/tree/main/EventNXT_new_app)
+    * CastNXT: [https://github.com/CSCE-606-Event360/CastNXT](https://github.com/CSCE-606-Event360/CastNXT)
+    * PlaNXT: [https://github.com/CSCE-606-Event360/Fall2023-PlaNXT](https://github.com/CSCE-606-Event360/Fall2023-PlaNXT)
+  * FashioNXT Repos (Past Teams Work)
+    * EventNXT: [https://github.com/FashioNXT/EventNXT-606-Spring2023](https://github.com/CSCE-606-Event360/EventNXT)
+    * CastNXT: [https://github.com/FashioNXT/CastNXT_Spring2023](https://github.com/CSCE-606-Event360/CastNXT)
+    * PlaNXT: [https://github.com/FashioNXT/planxt ](https://github.com/CSCE-606-Event360/PlaNXT)
     
 * Deployed App (https://events360.herokuapp.com/):
   * EventNXT: https://eventnxt.herokuapp.com/
