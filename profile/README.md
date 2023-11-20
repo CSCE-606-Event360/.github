@@ -35,7 +35,8 @@
     * CastNXT: [https://github.com/FashioNXT/CastNXT_Spring2023](https://github.com/CSCE-606-Event360/CastNXT)
     * PlaNXT: [https://github.com/FashioNXT/planxt ](https://github.com/CSCE-606-Event360/PlaNXT)
     
-* Deployed App (https://events360.herokuapp.com/):
+* Deployed App:
+  * Event360: https://events360.herokuapp.com/
   * EventNXT: https://eventnxt.herokuapp.com/
   * CastNXT: https://castnxtspring.herokuapp.com
   * PlaNXT: https://planxt.herokuapp.com
