@@ -29,8 +29,7 @@
 
   * Spring 2024 Repos:
     * PlaNXT: https://github.com/CSCE-606-Event360/Spring2024-PlaNXT
-    * EventNXT: https://github.com/CSCE-606-Event360/Spring2024EventNXT
-                     
+    * EventNXT: https://github.com/CSCE-606-Event360/Spring2024EventNXT      
                https://eventnxt24-3eb21df1cc32.herokuapp.com/ 
     * CastNXT: https://github.com/CSCE-606-Event360/2024CastNXT
   * Fall 2023 Repos:
