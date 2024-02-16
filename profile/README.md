@@ -27,6 +27,8 @@
 ## Useful Links
 * GitHub
 
+  * Spring 2024 Readme: https://github.com/CSCE-606-Event360/documentation/blob/main/Spring2024/readme.md
+
   * Spring 2024 Repos:
     * PlaNXT: https://github.com/CSCE-606-Event360/Spring2024-PlaNXT
       
