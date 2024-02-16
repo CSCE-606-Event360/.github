@@ -30,8 +30,9 @@
   * Spring 2024 Repos:
     * PlaNXT: https://github.com/CSCE-606-Event360/Spring2024-PlaNXT
     * EventNXT: https://github.com/CSCE-606-Event360/Spring2024EventNXT      
-      Heroku app: https://eventnxt24-3eb21df1cc32.herokuapp.com/ 
+      Deployed app: https://eventnxt24-3eb21df1cc32.herokuapp.com/ 
     * CastNXT: https://github.com/CSCE-606-Event360/CastNXT_2024_Spring_New
+    * Deployed app: https://castnxts24-4a03c52289d0.herokuapp.com/
   * Fall 2023 Repos:
     * EventNXT: [https://github.com/CSCE-606-Event360/EventNXT/tree/main/EventNXT_new_app](https://github.com/CSCE-606-Event360/EventNXT/tree/main/EventNXT_new_app)
     * CastNXT: [https://github.com/CSCE-606-Event360/CastNXT](https://github.com/CSCE-606-Event360/CastNXT)
