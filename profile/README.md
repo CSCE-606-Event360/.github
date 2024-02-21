@@ -32,7 +32,7 @@
   * Spring 2024 Repos:
     * PlaNXT: https://github.com/CSCE-606-Event360/Spring2024-PlaNXT
       
-      Deployed app: [[https://planxtwise-977c1a4011c1.herokuapp.com/](https://planxt.herokuapp.com/)](https://planxt.herokuapp.com/)
+      Deployed app: [(https://planxt.herokuapp.com/)](https://planxt.herokuapp.com/)
     * EventNXT: https://github.com/CSCE-606-Event360/Spring2024EventNXT      
 
       Deployed app: https://eventnxt-0fcb166cb5ae.herokuapp.com/
