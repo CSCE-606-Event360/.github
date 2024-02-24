@@ -36,7 +36,7 @@
     * EventNXT: https://github.com/CSCE-606-Event360/Spring2024EventNXT      
 
       Deployed app: https://eventnxt-0fcb166cb5ae.herokuapp.com/
-    * CastNXT: https://github.com/CSCE-606-Event360/CastNXT_2024_Spring_New
+    * CastNXT: https://github.com/CSCE-606-Event360/CastNXTs24
 
       Deployed app: https://castnxtspring.herokuapp.com/
       
