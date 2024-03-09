@@ -51,6 +51,6 @@
     
 * Deployed App:
   * Event360: https://events360.herokuapp.com/
-  * EventNXT: https://eventnxt.herokuapp.com/
+  * EventNXT: https://eventnxt-0fcb166cb5ae.herokuapp.com/
   * CastNXT: https://castnxtspring.herokuapp.com
   * PlaNXT: https://planxt.herokuapp.com
